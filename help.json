@@ -1,0 +1,306 @@
+[
+    {
+        "name": "BRIO 500",
+        "url": [
+            "https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/webcams/brio-500/gallery/brio-500-gallery-offwhite-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/brio-500/gallery/brio-500-gallery-graphite-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/brio-500/gallery/brio-500-gallery-rose-1.png?v=1"
+        ],
+        "description": "Full HD 1080p webcam with light correction, auto-framing, and Show Mode",
+        "price": "$99.99",
+        "colors": [
+            "Off-white",
+            "Graphite",
+            "Rose"
+        ],
+        "type": "webcam",
+        "collection": "none"
+    },
+    
+    {
+        "name": "COMBO TOUCH",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch-ipad/gallery/combo-touch-ipad-pro-12-9-inch-oxford-grey-gallery1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch-ipad/gallery/combo-touch-ipad-pro-12-9-inch-sand-gallery1.png?v=1"
+    ],
+        "description": "Backlit keyboard case with trackpad for iPad Pro® 12.9-inch (5th & 6th gen) and iPad Pro 11-inch (1st, 2nd, 3rd & 4th gen), and iPad Air® (4th & 5th gen)",
+        "price": "$229.99",
+        "colors": [
+            "Oxford Grey",
+            "Sand"
+        ],
+        "type": "ipad keyboards",
+        "collection": "none"
+    },
+    {
+        "name": "C310 HD WEBCAM",
+        "url": ["https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c310/gallery/c310-gallery-1.png?v=1"
+    ],
+        "description": "Essential HD 720p video calling",
+        "price": "$49.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "webcam",
+        "collection": "none"
+    },
+    {
+        "name": "MX MECHANICAL",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical/gallery/mx-mechanical-keyboard-top-view-graphite-us.png?v=1"
+    ],
+        "description": "Wireless Illuminated Performance Keyboard",
+        "price": "$169.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "keyboards",
+        "collection": "Master Series"
+    },
+    {
+        "name": "POP KEYS",
+        "url": [
+    
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/pop-keys-wireless-mechanical/gallery/wave-2/pop-keys-gallery-cosmo-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/pop-keys-wireless-mechanical/gallery/pop-keys-gallery-daydream-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/pop-keys-wireless-mechanical/gallery/pop-keys-gallery-blast-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/pop-keys-wireless-mechanical/gallery/pop-keys-gallery-heartbreak-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/pop-keys-wireless-mechanical/gallery/wave-2/pop-keys-gallery-mist-1.png?v=1"
+    ],
+        "description": "Wireless Mechanical Keyboard with Customizable Emoji Keys",
+        "price": "$99.99",
+        "colors": [
+            "Cosmos",
+            "Daydream",
+            "Blast",
+            "Heartbreaker",
+            "Mist"
+        ],
+        "type": "keyboards",
+        "collection": "POP"
+    },
+    {
+        "name": "POP MOUSE",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pop-wireless-mouse/gallery/wave-2/pop-mouse-gallery-cosmo-3.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pop-wireless-mouse/gallery/pop-mouse-gallery-daydream-3.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pop-wireless-mouse/gallery/pop-mouse-gallery-blast-3.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pop-wireless-mouse/gallery/pop-mouse-gallery-heartbreak-3.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/pop-wireless-mouse/gallery/wave-2/pop-mouse-gallery-mist-3.png?v=1"
+    ],
+        "description": "Wireless Mouse with Customizable Emoji. Get to know the playful, wireless POP Mouse, designed to make personality shine on your desktop and beyond. Pick the POP Mouse you love most from our range of designs, and make it your own with fun emoji customization.",
+        "price": "$39.99",
+        "colors": [
+            "Cosmos",
+            "Daydream",
+            "Blast",
+            "Heartbreaker",
+            "Mist"
+        ],
+        "type": "mice",
+        "collection": "POP"
+    },
+    {
+        "name": "POWERED Stand",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/powered-stand/gallery-black-1.png?v=1"
+    ],
+        "description": "10W wireless charging stand for phones and AirPods®",
+        "price": "$59.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "Wireless Chargers",
+        "collection": "none"
+    },
+    {
+        "name": "UNIVERSAL FOLIO",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/universal-folio-tablet-keyboard/gallery/gallery-fob.png?v=1"
+    ],
+        "description": "Keyboard case with Bluetooth for 9-10 inch Apple, Android, Windows tablets. With Universal Folio, you can enjoy laptop-like typing anywhere you take your tablet. Universal Folio locks your 9-10 inch tablet at an optimal angle for typing and holds firm on any surface from a café table, to a desk, or even your lap.",
+        "price": "$59.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "tablet keyboards",
+        "collection": "none"
+    },
+    {
+        "name": "MX MASTER 3S FOR MAC",
+        "url": [
+            "https://resource.logitech.com/w_572,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s-mac-bluetooth-mouse/gallery/pale-grey/mx-master-3s-for-mac-mouse-top-view-pale-grey.png?v=1",
+            "https://resource.logitech.com/w_572,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s-mac-bluetooth-mouse/gallery/space-grey/mx-master-3s-for-mac-mouse-top-view-space-grey.png?v=1"
+        ],
+        "description": "Performance Wireless Mouse",
+        "price": "$99.99",
+        "colors": [
+            "pale Gray",
+            "space Gray"
+        ],
+        "type": "mice",
+        "collection": "none"
+    },
+    
+     {
+        "name": "ERGO M575",
+        "url": [
+            "https://resource.logitech.com/w_572,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/ergo-m575/gallery/ergo-m575-gallery-black-1-new.png?v=1",
+            "https://resource.logitech.com/w_572,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/ergo-m575/gallery/ergo-m575-gallery-graphite-1-new.png?v=1",
+            "https://resource.logitech.com/w_572,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/ergo-m575/gallery/ergo-m575-gallery-off-white-1-new.png?v=1"
+        ],
+        "description": "Wireless thumb-operated trackball for all-day comfort",
+        "price": "$49.99",
+        "colors": [
+            "black",
+            "graphite",
+            "off-white"
+        ],
+        "type": "mice",
+        "collection": "Ergo Series"
+    },
+    {
+        "name": "G502 HERO",
+        "url": [
+            "https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/non-braid/hyjal-g502-hero/g502-hero-gallery-1-nb.png?v=1",
+            "https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g502-hero-kda/g502-hero-kda-gallery-01.png?v=1"
+    ],
+        "description": "High Performance Gaming Mouse",
+        "price": "$79.99",
+        "colors": [
+            "black",
+            "KDA"
+        ],
+        "type": "Gaming Mice",
+        "collection": "G Series"
+    },
+    {
+        "name": "MX VERTICAL",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-vertical/gallery/mx-vertical-gallery-01-new.png?v=1"
+        ],
+        "description": "Advanced Ergonomic Mouse",
+        "price": "$99.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "mice",
+        "collection": "Ergo Series"
+    },
+    {
+        "name": "CIRCLE VIEW DOORBELL",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/home-security-cameras/circle-view-doorbell/gallery/circle-view-doorbell-gallery2.png?v=1"
+    ],
+        "description": "Apple® HomeKit-enabled video doorbell with Face Recognition",
+        "price": "$200.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "camaras",
+        "collection": "none"
+    },
+    {
+        "name": "BLUETOOTH AUDIO RECEIVER",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/speakers/bluetooth-audio-adapter/gallery/bt-audio-adapter-gallery-01.png?v=1"
+    ],
+        "description": "Wireless streaming",
+        "price": "$39.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "speakers",
+        "collection": "none"
+    },
+    {
+        "name": "H370",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/h370/gallery/h370-gallery-01.png?v=1"
+    ],
+        "description": "USB Computer Headset",
+        "price": "$34.99",
+        "colors": [
+            "black"
+        ],
+        "type": "headsets",
+        "collection": "none"
+    },
+    
+    {
+        "name": "Z906 5.1 SURROUND SOUND SPEAKER SYSTEM",
+        "url": [
+            "https://www.logitech.com/en-us/products/speakers/z906-surround-sound-system.980-000467.html"
+    ],
+        "description": "THX, Dolby Digital, and DTS certified surround sound",
+        "price": "$399.99",
+        "colors": [
+            "black"
+        ],
+        "type": "speakers",
+        "collection": "none"
+    },
+    {
+        "name": "K845 MECHANICAL ILLUMINATED",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k845/gallery/k845-gallery-1-new.png?v=1"
+    ],
+        "description": "A corded aluminum mechanical keyboard with a choice of switches.",
+        "price": "$79.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "keyboards",
+        "collection": "none"
+    },
+    {
+        "name": "K400 PLUS WIRELESS TOUCH KEYBOARD",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k400-plus/gallery/k400-plus-black-gallery-1-uk.png?v=1"
+    ],
+        "description": "Relaxed wireless control of your PC connected TV",
+        "price": "$39.99",
+        "colors": [
+            "graphite"
+        ],
+        "type": "keyboards",
+        "collection": "none"
+    },
+    {
+        "name": "DESIGN COLLECTION LIMITED EDITION WIRELESS MOUSE",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/fy23/gallery/design-collection-limited-edition-bamboo-dream-gallery-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/gallery/design-collection-limited-edition-blue-aurora-gallery-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/gallery/design-collection-limited-edition-chirpy-bird-gallery-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/fy23/gallery/design-collection-limited-edition-positive-coral-reef-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/fy23/gallery/design-collection-limited-edition-forest-floral-gallery-1.png?v=1",
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/design-collection-limited-edition/gallery/design-collection-limited-edition-golden-garden-gallery-1.png?v=1"
+        ],
+        "description": "Comfy & compact mice with mood-boosting designs",
+        "price": "$29.99",
+        "colors": [
+            "BAMBOO DREAM",
+            "BLUE AURORA",
+            "CHIRPY BIRD",
+            "CORAL REEF",
+            "FOREST FLORAL",
+            "GOLDEN GARDEN"
+        ],
+        "type": "mice",
+        "collection": "none"
+    },
+    {
+        "name": "MX PALM REST",
+        "url": [
+            "https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-palm-rest/gallery/mx-palm-rest-gallery-1.png?v=1"
+    ],
+        "description": "Premium, no-slip support for hours of comfortable typing.",
+        "price": "$19.99",
+        "colors": [
+            "black"
+        ],
+        "type": "keyboards",
+        "collection": "Master Series"
+    }
+    ]
+    
